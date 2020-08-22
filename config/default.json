@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://ShrutiJha:Shivam@25@shrutijha.vludw.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken":"mysecrettoken",
+    "githubClientId":"f7409955893289c69a22",
+    "githubSecret":"572745d9d83b09fa324e235d6ecdd1b5565a7a6a"
+}
